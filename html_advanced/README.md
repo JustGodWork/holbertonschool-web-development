@@ -1,4 +1,4 @@
-# # Holberton School: Web Development (HTML, advanced)
+# Holberton School: Web Development (HTML, advanced)
 
 Made by @JustGodWork (**07/24**)
 
