@@ -1,3 +1,3 @@
 # Holberton School: Web Development
 
-Made by @JustGodWork (**07/24**)
+Made by [@JustGodWork](https://github.com/JustGodWork) (**07/24**)
